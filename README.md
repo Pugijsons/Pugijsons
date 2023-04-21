@@ -20,4 +20,4 @@
 
 💻 Current Projects
 
-* Scooter rental - The backend of a scooter rental application written in C# and using TTD principles.
+* Scooter rental - The backend of a scooter rental application written in C# and using TDD principles.
