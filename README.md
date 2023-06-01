@@ -6,7 +6,7 @@
 
 * Looking to learn and polish my skills.
 
-* Currently learning React, HTML and CSS.
+* Currently learning React and Angular.
 
 * Contact me at : https://www.linkedin.com/in/harijs-pugacs/
 
