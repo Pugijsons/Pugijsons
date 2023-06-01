@@ -20,4 +20,6 @@
 
 💻 Current Projects
 
-* Scooter rental - The backend of a scooter rental application written in C# and using TDD principles.
+* Flightplanner - flight planning application using C#, Entity Framework, HTTP and Web API.
+* Traffic Control - app that allows you to upload traffic data, look at filtered entries and display a day overview of average speed by hour, made using C#, React, Entity Framework, HTTP, Web API.
+* In progress: Patient registration service.
